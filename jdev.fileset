@@ -1,0 +1,13 @@
+-cvstatic 
+/disk3/people/patrice/JAVA/myclasses/Petri/PlaceTransitionIdResolver.class
+/disk3/people/patrice/JAVA/myclasses/Petri/AboutBox.class
+/disk3/people/patrice/JAVA/myclasses/Petri/Petri.class
+/disk3/people/patrice/JAVA/myclasses/Petri/Input.class
+/disk3/people/patrice/JAVA/myclasses/Petri/QuitDialog.class
+/disk3/people/patrice/JAVA/myclasses/Petri/FileInput.class
+/disk3/people/patrice/JAVA/myclasses/Petri/Help.class
+/disk3/people/patrice/JAVA/myclasses/Petri/Place.class
+/disk3/people/patrice/JAVA/myclasses/Petri/Transition.class
+/disk3/people/patrice/JAVA/myclasses/Petri/Arc.class
+/disk3/people/patrice/JAVA/myclasses/Petri/PetriNet.class
+-classpath .:/usr/java/classes:/usr/lib/Jdev:/usr/java/bin/../classes:/usr/java/bin/../lib/classes.zip
